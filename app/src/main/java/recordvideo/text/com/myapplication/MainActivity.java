@@ -10,6 +10,7 @@ public class MainActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        System.out.print("master");
+        System.out.print("111111111111");
+        System.out.print("2222222222");
     }
 }
